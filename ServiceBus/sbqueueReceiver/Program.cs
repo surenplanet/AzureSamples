@@ -8,7 +8,7 @@ namespace sbqueuereceiver
 {
     class Program
     {
-        const string ServiceBusConnectionString = "Endpoint=sb://salesteamapp235445.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=v6UMP0ts/3qDLft0t2wra1jSQgEm+J3SLZN2LfiWJ8M=";
+        const string ServiceBusConnectionString = "";
 
         const string QueueName = "salesmessages";
         static IQueueClient queueClient;
