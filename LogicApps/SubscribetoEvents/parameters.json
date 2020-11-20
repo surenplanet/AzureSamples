@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "connections_office365_name": {
+            "value": null
+        },
+        "virtualMachines_vm1_name": {
+            "value": null
+        },
+        "connections_office365_1_name": {
+            "value": null
+        },
+        "connections_azureeventgrid_name": {
+            "value": null
+        },
+        "workflows_la_eventgridtest_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1319_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm1_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm1_nsg_name": {
+            "value": null
+        },
+        "storageAccounts_cloudshell1883147544_name": {
+            "value": null
+        },
+        "virtualNetworks_learn_37f09022_24ea_4a5a_8ccc_be861ecd2698_vnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_NSG_westus_externalid": {
+            "value": null
+        }
+    }
+}
