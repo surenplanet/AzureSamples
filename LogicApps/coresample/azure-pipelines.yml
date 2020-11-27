@@ -1,0 +1,13 @@
+resources:
+  - repo: self
+pool:
+  name: Hosted
+steps:
+  - task: AzureResourceGroupDeployment@2
+    displayName: 'Azure Deployment: Create Or Update Resource Group action on RGTest'
+    inputs:
+      azureSubscription: ARMService
+      csmFile: csm-file.json
+      csmParametersFile: csm-parameters-file.json
+      location: North Europe
+      resourceGroupName: RGTest

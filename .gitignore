@@ -454,3 +454,7 @@ Messaging/ServiceBus/sbtopicsender/obj/Debug/netcoreapp3.1/sbtopicsender.dll
 Messaging/ServiceBus/sbtopicsender/obj/Debug/netcoreapp3.1/sbtopicsender.exe
 Messaging/ServiceBus/sbtopicsender/obj/Debug/netcoreapp3.1/sbtopicsender.genruntimeconfig.cache
 Messaging/ServiceBus/sbtopicsender/obj/Debug/netcoreapp3.1/sbtopicsender.pdb
+LogicApps/coresample/.vscode/extensions.json
+LogicApps/coresample/.vscode/launch.json
+LogicApps/coresample/.vscode/settings.json
+LogicApps/coresample/.vscode/tasks.json
